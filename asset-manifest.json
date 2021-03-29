@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/frontend-react-life-cycle-names/static/css/main.c10cdd39.chunk.css",
-    "main.js": "/frontend-react-life-cycle-names/static/js/main.b2dbf6a9.chunk.js",
-    "main.js.map": "/frontend-react-life-cycle-names/static/js/main.b2dbf6a9.chunk.js.map",
-    "runtime-main.js": "/frontend-react-life-cycle-names/static/js/runtime-main.f9627351.js",
-    "runtime-main.js.map": "/frontend-react-life-cycle-names/static/js/runtime-main.f9627351.js.map",
-    "static/js/2.3b43042c.chunk.js": "/frontend-react-life-cycle-names/static/js/2.3b43042c.chunk.js",
-    "static/js/2.3b43042c.chunk.js.map": "/frontend-react-life-cycle-names/static/js/2.3b43042c.chunk.js.map",
-    "static/js/3.d058ae7e.chunk.js": "/frontend-react-life-cycle-names/static/js/3.d058ae7e.chunk.js",
-    "static/js/3.d058ae7e.chunk.js.map": "/frontend-react-life-cycle-names/static/js/3.d058ae7e.chunk.js.map",
+    "main.js": "/frontend-react-life-cycle-names/static/js/main.7d85ba6b.chunk.js",
+    "main.js.map": "/frontend-react-life-cycle-names/static/js/main.7d85ba6b.chunk.js.map",
+    "runtime-main.js": "/frontend-react-life-cycle-names/static/js/runtime-main.178cee95.js",
+    "runtime-main.js.map": "/frontend-react-life-cycle-names/static/js/runtime-main.178cee95.js.map",
+    "static/js/2.c0a4383b.chunk.js": "/frontend-react-life-cycle-names/static/js/2.c0a4383b.chunk.js",
+    "static/js/2.c0a4383b.chunk.js.map": "/frontend-react-life-cycle-names/static/js/2.c0a4383b.chunk.js.map",
+    "static/js/3.c98c7338.chunk.js": "/frontend-react-life-cycle-names/static/js/3.c98c7338.chunk.js",
+    "static/js/3.c98c7338.chunk.js.map": "/frontend-react-life-cycle-names/static/js/3.c98c7338.chunk.js.map",
     "index.html": "/frontend-react-life-cycle-names/index.html",
     "static/css/main.c10cdd39.chunk.css.map": "/frontend-react-life-cycle-names/static/css/main.c10cdd39.chunk.css.map",
-    "static/js/2.3b43042c.chunk.js.LICENSE.txt": "/frontend-react-life-cycle-names/static/js/2.3b43042c.chunk.js.LICENSE.txt"
+    "static/js/2.c0a4383b.chunk.js.LICENSE.txt": "/frontend-react-life-cycle-names/static/js/2.c0a4383b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9627351.js",
-    "static/js/2.3b43042c.chunk.js",
+    "static/js/runtime-main.178cee95.js",
+    "static/js/2.c0a4383b.chunk.js",
     "static/css/main.c10cdd39.chunk.css",
-    "static/js/main.b2dbf6a9.chunk.js"
+    "static/js/main.7d85ba6b.chunk.js"
   ]
 }
